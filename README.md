@@ -19,7 +19,7 @@ A fully functional and visually appealing weather forecasting app built with **H
 
 ## 🖼️ Demo
 
-👉 [Live Demo](#) *(https://weather-now-red-xi.vercel.app/)*
+👉*(https://weather-now-red-xi.vercel.app/)*
 
 ---
 
